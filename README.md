@@ -12,7 +12,7 @@ L’application simule les deux phases du jeu (planification des actions et exé
 ## 📁 Contenu du dépôt
 
 - `ColtExpress.jar` : Fichier exécutable du jeu.
-- `Rapport_POGL.pdf` : Rapport décrivant l’architecture et le déroulement du projet.
+- `Rapport_ColtExpress.pdf` : Rapport décrivant l’architecture et le déroulement du projet.
 - `ColtExpress_diagramme.pdf` : Diagramme de classes UML du projet.
 
 ---
@@ -70,7 +70,7 @@ The application simulates the two main phases of the game (action planning and e
 ## 📁 Repository Contents
 
 - `ColtExpress.jar` – Executable game file.
-- `Rapport_POGL.pdf` – Report explaining the project architecture and implementation.
+- `Rapport_ColtExpress.pdf` – Report explaining the project architecture and implementation.
 - `COltExpress_diagramme.pdf` – UML class diagram representing the system structure.
 
 ---
