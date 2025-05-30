@@ -1,4 +1,4 @@
-# 🎲 Colt Express – Projet de Programmation Orientée et Génie Logiciel en Java
+# 🎲 Colt Express – Projet de Programmation Objet et Génie Logiciel en Java
 
 
 ## 📝 Description
@@ -56,7 +56,7 @@ Licence 2 Informatique
 
 ---
 
-# 🎲 Colt Express – Java GUI Programming Project
+# 🎲 Colt Express – Java GUI Object-Oriented Programming & Software Engineering Project
 
 
 ## 📝 Description
