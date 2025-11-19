@@ -51,7 +51,7 @@ Le tout est synchronisé grâce au **pattern Observer** entre le modèle et la v
 
 ## 👥 Membres du projet
 - **ETTAYEB Nour**
-- **FABREGA Isabel**  
+- **[FABREGA Isabel](https://github.com/im-f)**  
 Licence 2 Informatique
 
 ---
